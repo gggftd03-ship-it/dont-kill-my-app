@@ -3,7 +3,7 @@ manufacturer:
     - general
 ---
 
-### Android 6+
+### Android 15.0.0
 
 Always check the following setting:
 
